@@ -5,9 +5,9 @@
 
 ### Instantiate Message for Lockdrop DMZ:
 
-- Transaction Hash: `<TODO>`
+- Transaction Hash: `3E445C1D6B4F5B1803DE19A876FEED03507B6018D7038B96CE7D58A761A2CF94`
 - Code ID: `9417`
-- Contract Address: `<TODO>`
+- Contract Address: `terra1fdqhjvsumljna8rehljqwx3rgx4tej762fret70zvm0dhyhhz3wst2z463`
 - Instantiation Message:
 
 ```
