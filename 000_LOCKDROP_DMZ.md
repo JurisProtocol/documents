@@ -1309,6 +1309,6 @@
             "0.0000031752"
         ]
     ],
-    "admin": "terra14qk5u5yqhz9w3snz5mdl0ve5awgtjrpfy0rsjh"
+    "admin": "terra1xnu72mn60yzcyr0fl8avgjy5wepfw85c0knfeh"
 }
 ```
