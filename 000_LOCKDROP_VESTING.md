@@ -36,7 +36,7 @@
             ]
         ]
     },
-    "start_time": 1728086400,
+    "start_time": "1728086400000000000",
     "vesting_duration_seconds": 63072000,
     "unbonding_duration_seconds": 1814400
 }
