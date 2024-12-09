@@ -1,2 +1,0 @@
-Contract Address: terra1xlk47w09qye4emj3zmuwp5m65gxjf6sacxpd9tr3xyt59a0cstpqesshuk
-Code ID: 9417
