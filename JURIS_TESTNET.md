@@ -14,9 +14,9 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 
 ### Testnet Vesting
 
-250B testnet Juris have been deployed into the testnet vesting contract. These tokens are being released into the DMZ (see below) with a linear vesting schedule over the next 2 years.
+10B testnet Juris have been deployed into the testnet vesting contract. These tokens are being released into the DMZ (see below) with a linear vesting schedule over the next 1 year (13th Dec 2024 ~ 13th Dec 2025).
 
-- **Address**:
+- **Address**: `terra1wawdp202n3mrm2dwk09d4q4saa9mym8fvf58w4gaqtph4mkrfezsvqxvcu`
 - **Code ID**: `1110`
 
 ### Testnet DMZ
