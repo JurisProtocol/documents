@@ -5,8 +5,8 @@
 
 ### LOCKDROP VESTING
 
-- Contract Address: `terra1fdqhjvsumljna8rehljqwx3rgx4tej762fret70zvm0dhyhhz3wst2z463`
-- Code ID: `9418`
+- Contract Address: `terra14783nqrx4mjqfnymyqp88dsjf5c6axlt2m75wwt2supwkc0jxr0qyrhqtl`
+- Code ID: `9540`
 
 ### PRIVATE INVESTORS DMZ
 
@@ -15,5 +15,5 @@
 
 ### PRIVATE INVESTORS VESTING
 
-- Contract Address: `terra1xlk47w09qye4emj3zmuwp5m65gxjf6sacxpd9tr3xyt59a0cstpqesshuk`
-- Code ID: `9417`
+- Contract Address: `terra1w89kclh6qd4ftyll4k0x4cyd23lzd9krsntds4y0z2x67kymtf3qj9fgrl`
+- Code ID: `9540`
