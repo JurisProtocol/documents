@@ -24,6 +24,11 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 - **Address**: `terra187scjnjll6u6dq35fnl7aeuvyd6s9w8q9lvau2t3v6xrgtlu8j6q39t0wm`
 - **Code ID**: `1111`
 
-### Testnet Oracle Module
+### Testnet Margin Accounts Module
 
 - **Code ID**: `1208`
+
+### Testnet Oracle Module
+
+- **Address**: `terra1c4pjpnanhrxqwanuxkx3dygt58ex8j389rdad2m35qvvdxsh7jrsdyd8uh`
+- **Code ID**: `1209`
