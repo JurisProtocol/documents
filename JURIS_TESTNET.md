@@ -6,6 +6,7 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 
 - **Chain ID**: `rebel-2`
 - **RPC**: http://81.169.136.147:63663/
+- **LCD**: http://81.169.136.147:1317/
 
 ### Testnet Juris Token
 
