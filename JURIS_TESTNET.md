@@ -28,9 +28,14 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 ### Testnet Margin Accounts Module
 
 - **Address**: `terra1yel7an8z8ev0fxt97c48a2ar5w22g64par63m2ph8xec9rrhx0uqsxx2sh`
-- **Code ID**: `1220`
+- **Code ID**: `1222`
 
 ### Testnet Oracle Module
 
 - **Address**: `terra1c4pjpnanhrxqwanuxkx3dygt58ex8j389rdad2m35qvvdxsh7jrsdyd8uh`
 - **Code ID**: `1209`
+
+### Testnet Pool Factory (Dummy)
+
+- **Address**: `terra1vuhtmlgm65cevwmdyvkhqtd8yt3ww9rj3jywr0ur0d5u0zrhp8ls7jy8dg`
+- **Code ID**: `1223`
