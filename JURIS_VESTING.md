@@ -1,7 +1,7 @@
 ### LOCKDROP DMZ
 
 - Contract Address: `terra1pfefmmls2w67njucd2qgvv4qefcutyl95g986pd69caxdyzp7acsfp0fv8`
-- Code ID: `9507`
+- Code ID: `9771`
 
 ### LOCKDROP VESTING
 
@@ -31,7 +31,7 @@
 ### SHIRINI DMZ
 
 - Contract Address: `terra1hdm8l39h4vmmy8yl48hev8r7qa8pl7uygcraawfljslpepcn7mjqtp83fg`
-- Code ID `9507`
+- Code ID `9771`
 
 ### SHIRINI VESTING
 
