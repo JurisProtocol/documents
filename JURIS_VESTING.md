@@ -34,3 +34,6 @@
 - Code ID `9507`
 
 ### SHIRINI VESTING
+
+- Contract Address: `terra16dw0x2jzuw7ry8rcpzaetwdf7ck8rudw9kfveg46v4d2cn84jasqeucf8q`
+- Code ID `9540`
