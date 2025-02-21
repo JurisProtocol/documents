@@ -27,3 +27,10 @@
 
 - Contract Address: `terra1lejvcrgmhcuedemdetv6qrru7yu8qgwn6e070fq6q4kpda838kpsghwl2u`
 - Code ID `9540`
+
+### SHIRINI DMZ
+
+- Contract Address: `terra1hdm8l39h4vmmy8yl48hev8r7qa8pl7uygcraawfljslpepcn7mjqtp83fg`
+- Code ID `9507`
+
+### SHIRINI VESTING
