@@ -1,0 +1,109 @@
+{
+  "mode": "testnet",
+  "mainnet": {},
+  "testnet": {
+    "tokens": [
+      {
+        "name": "LUNC",
+        "address": "uluna",
+        "type": "native"
+      },
+      {
+        "name": "JURIS",
+        "address": "terra1w7d0jqehn0ja3hkzsm0psk6z2hjz06lsq0nxnwkzkkq4fqwgq6tqa5te8e",
+        "type": "cw20"
+      },
+      {
+        "name": "USTC",
+        "address": "uusd",
+        "type": "native"
+      }
+    ],
+    "codes": [
+      {
+        "module": "staking",
+        "id": "1841"
+      },
+      {
+        "module": "oracle_feed",
+        "id": "1684"
+      },
+      {
+        "module": "feeder",
+        "id": "1685"
+      },
+      {
+        "module": "indexer",
+        "id": "1689"
+      },
+      {
+        "module": "pool",
+        "id": "1680"
+      },
+      {
+        "module": "liquidation_queue",
+        "id": "1681"
+      },
+      {
+        "module": "liquidation_engine",
+        "id": "1682"
+      },
+      {
+        "module": "deployment",
+        "id": "1683"
+      },
+      {
+        "module": "oracle",
+        "id": "1686"
+      },
+      {
+        "module": "pool_factory",
+        "id": "1687"
+      },
+      {
+        "module": "margin_accounts",
+        "id": "1839"
+      },
+      {
+        "module": "vesting_power",
+        "id": "1741"
+      }
+    ],
+    "deployment": "terra1tgkm77hzne95qvxmv3lyzn52arwesrrs20lvxnjypzskuwtf030sk9pfyj",
+    "oracle": "terra1lsj3x7awnl0tfkag7wj7gj3sgpftvwtkc66ld8umnxfrxg2zma3s8ppcp5",
+    "margin_accounts": "terra15e5slthv79qw84lnf56je26r009f7f52gwrxe97exelmsac2gc0qktkcs9",
+    "pool_factory": "terra13zrsfxqsa52nd7ftcql9ax7tzerx8j88rvqwmyzmuxqmggm6gmasuatvwn",
+    "liquidation_engine": "terra1qcj67s5djuyttng9gctzkelxplm2wzcer9p58xglq70hm2qxp53sg2k0g8",
+    "staking": "terra1k5xhvs05dy0xj0euxq9p7vwqgdfgqdus02hcsd4ghh7le5y48rzqtqmar3",
+    "pools": [
+      {
+        "name": "USTC",
+        "address": "terra1r5s5gckhk30w4stlu9j49lm7ujnhx44r03xmjc66dy0ghxhlju3sphwg78"
+      },
+      {
+        "name": "JURIS",
+        "address": "terra1fvmel06usadn6qyqwqnu0p7p9jyh3pdyxhgt5twxzmd76gxep8cqgp2urh"
+      },
+      {
+        "name": "LUNC",
+        "address": "terra1tvmd7q6rfudn6n22cregcjz4ym7d0ht0mpnqxxsdawag3r0j94ksky6qrd"
+      }
+    ],
+    "queues": [
+      {
+        "name": "USTC",
+        "address": "terra1ezuankl5z6rw87y7fujet03gpafvrhgvtsuygwlsv8sn4z90hr3q4v576r"
+      },
+      {
+        "name": "JURIS",
+        "address": "terra1tvnlp9a5xmvmvncgyv8rtd8cc57a64fan66dc36c6cxjznt333asc75qnv"
+      },
+      {
+        "name": "LUNC",
+        "address": "terra1cgwez5ktmyylvm5l3w8j226v5gdtzfr8675hxr9x9g9fu82ddg9sr8w66g"
+      }
+    ]
+  },
+  "wallets": [],
+  "defaultInit": []
+}
