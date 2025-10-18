@@ -17,19 +17,19 @@
         3,
         4
     ],
-    "pub power_multiplier": [
+    "power_multiplier": [
         0,
         1,
         2,
         3,
         4
     ],
-    "pub release_times": [
+    "release_times": [
         1814400,
         7776000,
         15552000,
         31536000
     ],
-    "pub reward_custody": ""
+    "reward_custody": ""
 }
 ```
