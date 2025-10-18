@@ -1,4 +1,10 @@
-### Code: 10474
+### Code:
+
+`10474`
+
+### ADDRESS:
+
+`terra1rta0rnaxz9ww6hnrj9347vdn66gkgxcmcwgpm2jj6qulv8adc52s95qa5y`
 
 ### Instantiate: 
 
@@ -31,5 +37,34 @@
         31536000
     ],
     "reward_custody": ""
+}
+```
+
+### Update
+
+```
+{
+    "update_config":{
+        "reward_multiplier": [
+            0,
+            1,
+            3,
+            6,
+            12
+        ],
+        "power_multiplier": [
+            0,
+            1,
+            3,
+            6,
+            12
+        ],
+        "release_times": [
+            1814400,
+            15768000,
+            31536000,
+            63072000
+        ]
+    }
 }
 ```
