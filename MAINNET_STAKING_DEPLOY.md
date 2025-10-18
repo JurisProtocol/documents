@@ -1,7 +1,8 @@
-### Code: 
+### Code: 10474
 
 ### Instantiate: 
 
+```
 {
     admin: "terra16mcjuy5xm9vwnuj0w224qrew9mn7s9zqc42c02",
     asset: {
@@ -14,3 +15,4 @@
     pub release_times: [1814400, 7776000, 15552000, 31536000],
     pub reward_custody: "",
 }
+```
