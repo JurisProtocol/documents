@@ -1,3 +1,7 @@
+### Oracle Address
+
+`terra16yle8kwjwfhu6xjdc7qsj552axxnhnx4ltsqtgwhjem5fdgng0nqqysdm5`
+
 ### Staking Code:
 
 `10474`
