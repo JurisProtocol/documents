@@ -1,3 +1,7 @@
+### CW20 Bridge
+
+`terra19pfxzj9580h7rjd6z6sn5x2se76vgrc0etltr79g9z3t82jzp4hq63qguc`
+
 ### Oracle Contract
 
 `terra16yle8kwjwfhu6xjdc7qsj552axxnhnx4ltsqtgwhjem5fdgng0nqqysdm5`
