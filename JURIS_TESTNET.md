@@ -49,3 +49,8 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 
 - **Address**: `terra1vuhtmlgm65cevwmdyvkhqtd8yt3ww9rj3jywr0ur0d5u0zrhp8ls7jy8dg`
 - **Code ID**: `1223`
+
+## Testnet Staking
+
+- **OLD**: `terra1k5xhvs05dy0xj0euxq9p7vwqgdfgqdus02hcsd4ghh7le5y48rzqtqmar3`
+- **NEW**: `terra184w6ewkqhwvdvnvp7mqje7fr93jky8tpl5qu9pu9vdvfs4uuwg6qt0s0nr`
