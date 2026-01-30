@@ -15,7 +15,8 @@
 
 ### PRIVATE INVESTORS DMZ
 
-- Contract Address: `terra1cjjy4yzzp6sdv6uq27u6l82gslpdkw4l3zk785674mh8gk9dn5qqvr4nr0`
+- ~~Contract Address: `terra1cjjy4yzzp6sdv6uq27u6l82gslpdkw4l3zk785674mh8gk9dn5qqvr4nr0`~~
+- Contract Address: `terra1xzst2kz3y0lmthuqfpk04yc67rzx7ne9zpwk8dynd3wc3k2utedqmsx69t`
 - DMZ Code: `9507`
 
 ### PRIVATE INVESTORS VESTING
