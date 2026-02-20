@@ -21,7 +21,8 @@
 
 ### PRIVATE INVESTORS VESTING
 
-- Contract Address: `terra1w89kclh6qd4ftyll4k0x4cyd23lzd9krsntds4y0z2x67kymtf3qj9fgrl`
+- ~~Contract Address: `terra1w89kclh6qd4ftyll4k0x4cyd23lzd9krsntds4y0z2x67kymtf3qj9fgrl`~~
+- Contract Address: `terra12vcu7fjzkv6k4f4zzmz6quakdxpjzn3eeu3ajfkrw88navc5hjaszssq6t`
 - Code ID: `9540`
 
 ### PRIVATE INVESTOR #2 DMZ
