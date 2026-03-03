@@ -1,7 +1,12 @@
+### LOCKDROP GOLD DMZ
+
+- Contract Address: `terra1t92s05f2ja50df77wp6s9uw30yx0nn2yh7x7r4uk87ttyw3up3tqt6kn2x`
+- Code ID: `10489`
+
 ### LOCKDROP V2 DMZ
 
 - Conract Address: `terra1n3ysja7wds8xgwr932xvz3733msme2cqkesmxv9ffpyvd0xnahns5qmfzq`
-- Code ID: 10489
+- Code ID: `10489`
 
 ### LOCKDROP DMZ
 
