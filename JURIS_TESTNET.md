@@ -56,4 +56,10 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 ## Testnet Terraswap Deployment
 
 - **Factory**: `terra1rsppu0xtfv0zjhmzs86akt8j7kjtv6u75753zl8wy3qcc8qaasusx6vjdh`
-- **JURIS/LUNC**: `terra12v9dsl85tgp2r27rf029kzf07v660feumdldvpjcclrwf8kn4r9qgt5swq`
+
+**Liquidity Pools**
+
+| pair | address |
+|:-------|:--------|
+| **JURIS/LUNC** | `terra12v9dsl85tgp2r27rf029kzf07v660feumdldvpjcclrwf8kn4r9qgt5swq` |
+| **PAXG/LUNC** | `terra1gavqggppv840k3cncgq9xvk90rzjzvuemh6yzyq7kvmem2vuun8sk9d8g3` |
