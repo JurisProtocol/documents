@@ -22,6 +22,8 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 | BTC    | terra12x7n2cpnpctghhhvn9xh7tl6yh0u9jyvr4kjhphw69jpp85x24nsphmqt0 |
 | USDC   | terra154hadnff5fu6lj2nlf0zpqlfmaquy0qelhvd8qrpgtlsyvvtywkqsd05p3 |
 | ETH    | terra1jha0esm2dygyyvmupdxqt2vy59mq6kh5f2c3a8z8d6tjyq3ahtvqet3m82 |
+| LUNC    | uluna |
+| USTC    | uusd |
 
 ### Testnet Vesting
 
