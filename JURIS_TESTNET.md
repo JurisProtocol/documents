@@ -8,15 +8,11 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 - **RPC**: http://81.169.136.147:63663/
 - **LCD**: http://81.169.136.147:1317/
 
-### Testnet Juris Token
-
-- **Address**: `terra1w7d0jqehn0ja3hkzsm0psk6z2hjz06lsq0nxnwkzkkq4fqwgq6tqa5te8e`
-- **Code ID**: `1109`
-
-### Testnet Other Tokens
+### Testnet Token Addresses
 
 | symbol | address |
 |:-------|:--------|
+| JURIS  | terra1w7d0jqehn0ja3hkzsm0psk6z2hjz06lsq0nxnwkzkkq4fqwgq6tqa5te8e |
 | PAXG   | terra10jv9jll42c765xwt5aw65htp3lc433qy2nefvkh4ushlente6fqqk6xsul |
 | USDT   | terra12yh4swzkm2acjsk57u77ems8v6q5nrc0aeekn37jxgpxdfrstnnsd7lqqq |
 | BTC    | terra12x7n2cpnpctghhhvn9xh7tl6yh0u9jyvr4kjhphw69jpp85x24nsphmqt0 |
