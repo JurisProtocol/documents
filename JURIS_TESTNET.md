@@ -64,3 +64,6 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 | **PAXG/LUNC** | `terra1gavqggppv840k3cncgq9xvk90rzjzvuemh6yzyq7kvmem2vuun8sk9d8g3` |
 | **USDT/LUNC** | `terra14yjm27mx9qln32caea5fw8ffmk0t0akfta5s943l8m0qhmp63t7s2dfhh6` |
 | **BTC/LUNC** | `terra1mdmvpv4q07vg53hu3qml2qzncgs0jj3a7lx29cu27juue9yzcejqarww59` |
+| **USDC/LUNC** | `terra1hlm8g82ukq74spule4t4arznqt7q800u25jkvkg2hq3ckpwms6zqxg5x44` |
+| **ETH/LUNC** | `terra1ksy3lac33g94jw23k0xakmr2043hlpk28re2se6tys858l4ptrqqqh7u47` |
+| **USTC/LUNC** | `terra12d39rt7c8r7xm8wk7874trp5kwv55u65jfgch09pnf0mvrug6c4q6ust27` |
