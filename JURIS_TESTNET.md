@@ -40,8 +40,7 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 
 ### Testnet Oracle Module
 
-- **Address**: `terra1c4pjpnanhrxqwanuxkx3dygt58ex8j389rdad2m35qvvdxsh7jrsdyd8uh`
-- **Code ID**: `1209`
+- **Address**: `terra1lsj3x7awnl0tfkag7wj7gj3sgpftvwtkc66ld8umnxfrxg2zma3s8ppcp5`
 
 ### Testnet Pool Factory (Dummy)
 
