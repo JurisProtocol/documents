@@ -52,6 +52,10 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 - **OLD**: `terra1k5xhvs05dy0xj0euxq9p7vwqgdfgqdus02hcsd4ghh7le5y48rzqtqmar3`
 - **NEW**: `terra184w6ewkqhwvdvnvp7mqje7fr93jky8tpl5qu9pu9vdvfs4uuwg6qt0s0nr`
 
+## Testnet Liquidation Vault
+
+- `terra1mtwuzhfsysfg7k0dugrg50hpf6wcz03vyr66rdge7lpqzede34sqxkkrf2`
+
 ## Testnet Terraswap Deployment
 
 - **Factory**: `terra1rsppu0xtfv0zjhmzs86akt8j7kjtv6u75753zl8wy3qcc8qaasusx6vjdh`
