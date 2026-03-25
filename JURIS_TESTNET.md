@@ -59,6 +59,7 @@ Navigate to https://wallet.terra-classic.io/. Then in the top drop down menu cho
 ## Testnet Terraswap Deployment
 
 - **Factory**: `terra1rsppu0xtfv0zjhmzs86akt8j7kjtv6u75753zl8wy3qcc8qaasusx6vjdh`
+- **Router**: `terra1cvt5ehhtk0th8f3dlfd3xhjy2j8t2q5twpd96y0ftg6qjneh4egqj0343q`
 
 **Liquidity Pools**
 
