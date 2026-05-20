@@ -31,12 +31,14 @@
 | Asset | Address | 
 |-------| --------|
 |LUNC   | `terra1sppah23w9ta0lszdjyxgr2hgc3mdjhxnnnsr3jmxyzjraz60ct0s2ux9u2` |
+|JURIS  | `terra1j2duml67vl7rhzg43qapnm42n79lwy8a5yedt2taeryvw7a9r8tse6pvfp` |
 
 ### Juris Liquidation Queues
 
 | Asset | Address | 
 |-------| --------|
 |LUNC   | `terra1rmlwqsf5u4u7qk3p7xrqspqyv9rqem3crrp3lrf8pl9nzhypnnjsdr8r84` |
+|JURIS  | `terra1vxqg6wze0m0p302yk0p2q6pu7lj9nmncuem5l4ap4s2w9cfu9ctqcqvkk4` |
 
 ### Vesting Power Contracts:
 
