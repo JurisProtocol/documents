@@ -26,6 +26,18 @@
 
 `terra1rta0rnaxz9ww6hnrj9347vdn66gkgxcmcwgpm2jj6qulv8adc52s95qa5y`
 
+### Juris Lending Pools
+
+| Asset | Address | 
+|-------| --------|
+|LUNC   | `terra1sppah23w9ta0lszdjyxgr2hgc3mdjhxnnnsr3jmxyzjraz60ct0s2ux9u2` |
+
+### Juris Liquidation Queues
+
+| Asset | Address | 
+|-------| --------|
+|LUNC   | `terra1rmlwqsf5u4u7qk3p7xrqspqyv9rqem3crrp3lrf8pl9nzhypnnjsdr8r84` |
+
 ### Vesting Power Contracts:
 
 - **Lockdrop**: `terra1zgjnvza0zjz4j6dqu0uw4u8vqxzr5hc53amdsdkjfnrkacl0t2hqyfxcew`
