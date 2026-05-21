@@ -34,6 +34,7 @@
 |JURIS  | `terra1j2duml67vl7rhzg43qapnm42n79lwy8a5yedt2taeryvw7a9r8tse6pvfp` |
 |TERRA  | `terra17twja6w2wc8z25t9ztj7ukcfzujsrrvk04uh4n0vkpfs79q5xvzqdhdpw9` |
 |USTC   | `terra1n6wrrkma0vzt7akv7nqzfrsjsutlccue0l0d79jf87v93zd0kz8slra8ac`  |
+|USDC (noble) | `terra1pe5v475qlz2twm20at3gyy63gdcgenajhzpwpkv506svmwgy70kq4v7k6c` |
 
 ### Juris Liquidation Queues
 
@@ -43,6 +44,7 @@
 |JURIS  | `terra1vxqg6wze0m0p302yk0p2q6pu7lj9nmncuem5l4ap4s2w9cfu9ctqcqvkk4` |
 |TERRA  | `terra1uednhva57gm074vga2s6tgvl7tm8dw0qlyjugjsuwswckrae2zeqfvnz99` |
 |USTC   | `terra1ht70xqvvvggf6w6h5yflyqzyprh5g4hrr8hu69zsz0585j3aevpqgf6vcl` |
+|USDC (noble) | `terra18lujmvz6pznz9rc6evtktxc9hwlxkrjfwl300nunlny8ujc9hves2m20ve` |
 
 ### Vesting Power Contracts:
 
