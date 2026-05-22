@@ -4,7 +4,7 @@
 
 ### Juris Protocol Contracts
 
-| Asset | Address | 
+| Contract | Address | 
 |-------| --------|
 | Oracle | `terra16yle8kwjwfhu6xjdc7qsj552axxnhnx4ltsqtgwhjem5fdgng0nqqysdm5` |
 | Factory | `terra1pqt2358kefq56j5perq6jwpclzjg6gf0j5c3mrn2jv27svn5rlpszz5tzx` |
