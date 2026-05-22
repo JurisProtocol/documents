@@ -2,29 +2,16 @@
 
 `terra19pfxzj9580h7rjd6z6sn5x2se76vgrc0etltr79g9z3t82jzp4hq63qguc`
 
-### Oracle Contract
+### Juris Protocol Contracts
 
-`terra16yle8kwjwfhu6xjdc7qsj552axxnhnx4ltsqtgwhjem5fdgng0nqqysdm5`
-
-### Factory Contract
-
-`terra1pqt2358kefq56j5perq6jwpclzjg6gf0j5c3mrn2jv27svn5rlpszz5tzx`
-
-### Margin Accounts Contract
-
-`terra13f9wdux2xqag2w6qtqxdevwc9s5e0sfxxhz9ag9w44qq7ltu89aq6l4dy9`
-
-### Liquidation Vault
-
-`terra12aw79gxugkc9ursykwcjv2swm5lekawyj4am5e627vsjgg47w5dqqx8xdd`
-
-### Pair Adapter
-
-`terra13qgtlz3yevpnutvt262kxjss4rljjlhg988p8mg3kcuq54c7dfwqap4dv2`
-
-### Staking Contract:
-
-`terra1rta0rnaxz9ww6hnrj9347vdn66gkgxcmcwgpm2jj6qulv8adc52s95qa5y`
+| Asset | Address | 
+|-------| --------|
+| Oracle | `terra16yle8kwjwfhu6xjdc7qsj552axxnhnx4ltsqtgwhjem5fdgng0nqqysdm5` |
+| Factory | `terra1pqt2358kefq56j5perq6jwpclzjg6gf0j5c3mrn2jv27svn5rlpszz5tzx` |
+| Margin | `terra13f9wdux2xqag2w6qtqxdevwc9s5e0sfxxhz9ag9w44qq7ltu89aq6l4dy9` |
+| Liq. Vault | `terra12aw79gxugkc9ursykwcjv2swm5lekawyj4am5e627vsjgg47w5dqqx8xdd` |
+| Pair Adapter | `terra13qgtlz3yevpnutvt262kxjss4rljjlhg988p8mg3kcuq54c7dfwqap4dv2` |
+| Staking | `terra1rta0rnaxz9ww6hnrj9347vdn66gkgxcmcwgpm2jj6qulv8adc52s95qa5y` |
 
 ### Juris Lending Pools
 
