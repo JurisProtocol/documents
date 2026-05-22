@@ -35,6 +35,8 @@
 |TERRA  | `terra17twja6w2wc8z25t9ztj7ukcfzujsrrvk04uh4n0vkpfs79q5xvzqdhdpw9` |
 |USTC   | `terra1n6wrrkma0vzt7akv7nqzfrsjsutlccue0l0d79jf87v93zd0kz8slra8ac`  |
 |USDC (noble) | `terra1pe5v475qlz2twm20at3gyy63gdcgenajhzpwpkv506svmwgy70kq4v7k6c` |
+|GRDX | `terra1vndntyf09qv62p675534f8q6y0wz9p5czuhnu4vnal5qy3xmjvgqfcu39q` |
+|OSMO | `terra1c8cxujhejpza6vhr6jhug2yjazqerrm0dae7nepjm3x9cqxz3ncs42hwsn` |
 
 ### Juris Liquidation Queues
 
@@ -45,6 +47,8 @@
 |TERRA  | `terra1uednhva57gm074vga2s6tgvl7tm8dw0qlyjugjsuwswckrae2zeqfvnz99` |
 |USTC   | `terra1ht70xqvvvggf6w6h5yflyqzyprh5g4hrr8hu69zsz0585j3aevpqgf6vcl` |
 |USDC (noble) | `terra18lujmvz6pznz9rc6evtktxc9hwlxkrjfwl300nunlny8ujc9hves2m20ve` |
+|GRDX   | `terra1ucnqq4sdua9x3ru8af37zf53z4p57dqyundc7cr9tqfexdadfs2qt4un46` |
+|OSMO   | `terra1kd884g2k0hezlluuanl0qqf836ucvvdq49n08d97pd9fqjcxf58qjc7v55` |
 
 ### Vesting Power Contracts:
 
