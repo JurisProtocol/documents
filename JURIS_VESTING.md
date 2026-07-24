@@ -3,10 +3,18 @@
 - Contract Address: `terra1t92s05f2ja50df77wp6s9uw30yx0nn2yh7x7r4uk87ttyw3up3tqt6kn2x`
 - Code ID: `10489`
 
+### LOCKDROP GOLD VESTING
+
+- Contract Address: `terra1z7hu2ysuw87w793et7d77cchepxchw0kfv2h5v9640x6vs4cavhqa07jtc`
+
 ### LOCKDROP V2 DMZ
 
 - Conract Address: `terra1n3ysja7wds8xgwr932xvz3733msme2cqkesmxv9ffpyvd0xnahns5qmfzq`
 - Code ID: `10489`
+
+### LOCKDROP V2 VESTING
+
+- Contract Address: `terra1yhsmqtshycduvmf2yjtwj43desvwax3z6dghha2nf9k5096qaw3smr56nj`
 
 ### LOCKDROP DMZ
 
